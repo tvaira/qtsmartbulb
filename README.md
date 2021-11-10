@@ -40,7 +40,7 @@ _Remarques :_
 
 - vous pouvez modifier la version de Qt dans `.qmake.conf`
 - vous pouvez préciser le chemin de `qmake` si besoin
-- il faut `openssl` et ses bibliothèques `-lssl -ldl -lcrypto`
+- il faut `openssl` et ses bibliothèques `-lssl -ldl -lcrypto` (`sudo apt install libssl-dev libboost-all-dev`)
 
 ## Utilisation
 

@@ -2,7 +2,7 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QtSmartBulb/QSmartBulb>
+#include <QtSmartBulb/QtSmartBulb>
 
 class MainWindow : public QMainWindow
 {
