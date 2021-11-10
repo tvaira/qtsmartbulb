@@ -59,7 +59,7 @@ L'ampoule se pilote à partir d'un objet de la classe `SmartBulb` :
 #define MAINWINDOW_H
 
 #include <QMainWindow>
-#include <QtSmartBulb/QSmartBulb>
+#include <QtSmartBulb/QtSmartBulb>
 
 class MainWindow : public QMainWindow
 {
